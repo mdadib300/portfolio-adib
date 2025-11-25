@@ -1,10 +1,47 @@
-import React from 'react';
+import BlurText from '../Common/BlurText/BlurText';
+import ScrollReveal from '../Common/ScrollReveal/ScrollReveal';
 
 const About = () => {
+    const handleAnimationComplete = () => {
+        console.log('Animation completed!');
+    };
     return (
-        <div id='about'>
-            <h1>ABOUT</h1>
-            <p className="my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus unde consequuntur, minima quidem neque magni recusandae nisi nesciunt quod. Autem maiores ratione fugit beatae dolore vel, itaque sit repudiandae ipsam aut perspiciatis ut sequi voluptate! Impedit fuga dolor ullam consectetur molestiae nulla earum perferendis. Quas voluptate similique mollitia quod nulla voluptas? Accusantium similique earum quas eaque dolor quo corrupti quos laudantium, corporis voluptatem iste suscipit sequi itaque rerum inventore unde. Rerum optio fuga explicabo! Tenetur accusamus officiis laudantium nihil cumque, non fugit veritatis est neque excepturi praesentium exercitationem nostrum vitae. Quam quis consequatur praesentium velit ut recusandae, dolor labore architecto quos ex optio necessitatibus commodi sunt obcaecati illum, ipsam exercitationem laboriosam delectus ad reprehenderit magni debitis natus doloremque asperiores. Nemo necessitatibus voluptatem veniam excepturi, in quos praesentium blanditiis illo mollitia voluptates voluptatibus sed quam dicta perferendis voluptate a saepe error pariatur ullam voluptas non. Eaque excepturi quis quidem ut sequi, cumque et facere cum esse numquam laborum! Ratione tenetur id officiis cum corporis pariatur repudiandae eligendi culpa unde laboriosam commodi ipsa natus assumenda explicabo deleniti ea impedit cupiditate nostrum ex, non voluptates animi voluptatem, debitis neque. Quo quaerat nemo officiis consequuntur ab quidem nihil, nostrum laudantium eveniet expedita corporis assumenda sed! Laborum, possimus mollitia? Quo, veniam molestias cupiditate in debitis suscipit aperiam exercitationem. Ullam, quis beatae autem laudantium et, repellat incidunt vero, saepe modi dicta ut? Molestias error distinctio numquam voluptas atque modi ad reiciendis ut quasi dolores blanditiis minus ex autem saepe nesciunt earum inventore deserunt quisquam commodi nobis nulla, incidunt facilis? Voluptatum mollitia sequi consequuntur veniam quas expedita cum, tempore omnis cumque, esse fuga debitis eos magnam quasi! Molestiae at earum reiciendis facilis expedita possimus molestias temporibus, nulla laborum obcaecati sapiente alias atque fuga id ipsa in aliquid dolor repellat, odit velit aspernatur explicabo. Doloribus officiis ad atque dolore magnam et veniam! Quos quis quod quasi commodi eveniet iusto. Maxime, veniam atque excepturi at incidunt molestias eos, inventore numquam consequatur harum repudiandae laborum architecto. Aperiam sunt eligendi doloribus itaque pariatur porro temporibus, nemo incidunt nisi ab commodi et reiciendis deserunt impedit molestias possimus molestiae quae distinctio excepturi earum. Dignissimos sequi cumque ad fugiat totam. Soluta, reiciendis accusantium. Qui reprehenderit ullam odio tenetur repellat illo nulla atque, omnis commodi nesciunt ipsa sit quod ipsam, perspiciatis unde culpa tempora dicta repudiandae consequatur facilis? Fuga explicabo aperiam a ducimus perspiciatis ut iure cum odio unde perferendis ipsa culpa maiores voluptates, deserunt impedit porro dolorem odit fugiat tenetur necessitatibus! Unde repudiandae sed dolores quo deserunt voluptatibus earum enim. Ullam, totam. Iste impedit explicabo quia reiciendis fugit quae. Ab quo atque quia tenetur non aperiam quae harum animi, quas recusandae natus corrupti. Ad obcaecati sapiente molestiae recusandae, animi vero nihil. At, nulla ex fugiat rem officia quam fugit ipsum voluptatibus. Iste voluptatum totam error ea! Esse eligendi dolorem, possimus magnam totam eos in rem impedit quas incidunt aliquid enim inventore beatae, dicta aspernatur architecto consequatur perspiciatis assumenda molestias qui labore velit cupiditate soluta consequuntur. Illum alias ratione cumque officia odit? Ullam, accusantium? Enim maiores facilis natus iure laudantium, illum nostrum. Et quam, eius illum, blanditiis consequuntur itaque omnis impedit explicabo voluptatem atque voluptates fugit facilis, ut ducimus quos hic officiis dicta. Animi obcaecati et architecto aut cupiditate quidem voluptatem tempore at sapiente delectus eius aspernatur exercitationem, cumque in odio placeat officia? Natus maxime atque doloremque optio aspernatur vero ipsum temporibus doloribus possimus porro, qui quasi facere corporis, at quia dolore ut reprehenderit? Id, ad voluptatibus nostrum explicabo, omnis ab tenetur deleniti architecto repellat libero fugiat, necessitatibus atque vel fuga. Recusandae vero inventore commodi alias repellat accusantium ipsam sunt quam animi, sapiente in iusto laborum totam perferendis architecto, quibusdam, minima cum. Quis consequuntur totam corporis impedit quia a architecto quasi! Adipisci, ducimus saepe omnis enim tempora iste et facere, dolores corrupti nesciunt accusamus libero a fuga esse doloribus aut pariatur praesentium officiis fugit, assumenda hic atque. Itaque accusantium sit, explicabo cupiditate quo adipisci aut maiores quaerat quam molestiae ab voluptas totam esse vel nemo praesentium obcaecati. Laudantium rerum minus qui! Odit facere voluptate officia inventore deleniti rerum quisquam molestias nostrum earum quos nobis quidem facilis voluptas temporibus, dignissimos et sequi ab? Animi quae praesentium enim a odio? Inventore molestiae maiores magni suscipit, accusantium officiis vero? Modi dolore quidem provident ab, soluta inventore veritatis debitis vel sapiente dicta temporibus distinctio tempore ipsa et eius deserunt odio dolorem, deleniti quo sit. Porro quod est magnam error ad optio explicabo repellat, sapiente placeat natus. Quo eveniet ducimus est libero iste dolores aperiam in? Laboriosam reprehenderit autem, a sequi adipisci ipsa! Optio facere, doloremque sed blanditiis quas reprehenderit in ducimus necessitatibus temporibus quidem culpa voluptate id, sit autem sequi voluptatum consequatur adipisci atque saepe. Non eaque expedita veniam quis rem aliquam rerum culpa, quisquam maiores sequi voluptatum similique praesentium dolor nam ducimus dolorem neque fugiat voluptatem assumenda dolorum. Doloribus corrupti modi dolorem earum animi neque optio qui sit nostrum. Voluptas illo facilis minima mollitia nostrum consectetur a distinctio? Neque deserunt vel dolor provident placeat non accusantium quae sint aliquam in excepturi dignissimos distinctio quas sed repellat voluptas cupiditate deleniti, ea sapiente beatae! Possimus itaque sunt eos consectetur amet dolorum velit, facere necessitatibus alias exercitationem consequuntur ab debitis. Vitae dolorem officiis beatae! Sequi nisi repellat amet praesentium iure, neque dicta illo, placeat sit obcaecati corporis beatae accusamus similique sapiente ipsa distinctio doloribus sunt rem, facilis asperiores eum! Consequatur minima, nostrum fugit sit obcaecati similique nesciunt quia aliquam eius ab, voluptate voluptates harum quo delectus corporis, recusandae nemo doloremque iure modi! Ullam praesentium optio explicabo ratione dolorem error nulla quo! Beatae voluptatibus placeat natus ipsam libero! Laborum explicabo possimus sint fugit ratione praesentium sequi? Fuga harum repellendus eligendi dignissimos quasi magni quia! Expedita, ipsum molestiae. Distinctio excepturi harum assumenda voluptate eos, soluta laboriosam? Accusamus non officia facilis quos accusantium inventore repudiandae provident ab. A sapiente ratione maxime corporis nulla nam vitae temporibus quidem velit non. Asperiores in fugiat distinctio cum nihil deserunt minima quam facilis magni, natus ab beatae iste voluptatibus quidem amet voluptatum corporis. Nihil velit neque facere vitae.</p>
+        <div id='about' className='bg-[#293241] text-[#e0fbfc]'>
+            <BlurText
+                text="ABOUT"
+                delay={200}
+                animateBy="letters"
+                direction="bottom"
+                onAnimationComplete={handleAnimationComplete}
+                className="flex justify-center text-4xl font-semibold py-10"
+            />
+            <p className='text-center text-xl px-2 lg:px-30'>Here you’ll find more information about who I am, what I do, and the skills I’m building as a MERN Stack Web Developer — along with my interests in programming, technology, and creating impactful digital experiences.</p>
+            <div>
+                <div>
+                    <h2 className='text-2xl font-semibold'>Who am I?</h2>
+                    <div>
+                        <ScrollReveal
+                            baseOpacity={0}
+                            enableBlur={true}
+                            baseRotation={2}
+                            blurStrength={10}
+                        >
+                            I'm a MERN Stack Web Developer passionate about building clean, scalable, and user-focused web applications. I enjoy turning ideas into functional digital products and experimenting with modern tools like React, Node.js, Express.js, and MongoDB. You can explore some of the projects I’ve worked on in the Projects section. I’m also constantly learning — from JavaScript fundamentals to advanced concepts in API integration, backend architecture, and system design. I often share what I learn with others, whether through conversations, community groups, or social platforms like LinkedIn, where I stay connected with people in the tech community. I’m actively growing as a developer and always open to new opportunities where I can contribute, improve, and make an impact. If you believe my skills align with something you’re building, feel free to contact me — I’d be happy to connect.
+                        </ScrollReveal>
+                        <div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div>
+
+
+
+
+
+
+                </div>
+            </div>
         </div>
     );
 };
