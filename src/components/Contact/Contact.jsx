@@ -20,31 +20,33 @@ const Contact = () => {
             <p className='text-center text-xl px-2 lg:px-30 mb-10'>Feel free to Contact me for any web dev. related need and I will get back to you as soon as possible</p>
             <div className='flex justify-center px-5 md:px-10'>
                 <div className="stats shadow block lg:flex">
-                    <div className="stat p-10 bg-[#e0fbfc] text-[#293241]">
-                        <div className="stat-figure text-6xl">
+                    <div className="stat p-5 md:p-10 bg-[#e0fbfc] text-[#293241]">
+                        <div className="stat-figure text-4xl">
                             <IoCall />
                         </div>
                         <div className="stat-title text-[#293241] text-xl font-bold">Phone Number</div>
                         <div className="stat-desc text-[#293241] text-lg">+880 1755 270 626</div>
                     </div>
 
-                    <div className="stat p-10 bg-[#e0fbfc] text-[#293241]">
-                        <div className="stat-figure text-6xl">
+                    <div className="stat p-5 md:p-10 bg-[#e0fbfc] text-[#293241]">
+                        <div className="stat-figure text-4xl">
                             <MdOutlineAlternateEmail />
                         </div>
                         <div className="stat-title text-[#293241] text-xl font-bold">Email Address</div>
                         <div className="stat-desc text-[#293241] text-lg">mdadib300@gmail.com</div>
-                        <div className="stat-desc text-[#293241] text-sm">mdadib300secondary@gmail.com</div>
                     </div>
 
-                    <div className="stat p-10 bg-[#e0fbfc] text-[#293241]">
-                        <div className="stat-figure text-6xl">
+                    <div className="stat p-5 md:p-10 bg-[#e0fbfc] text-[#293241]">
+                        <div className="stat-figure text-4xl">
                             <FaHome />
                         </div>
                         <div className="stat-title text-[#293241] text-xl font-bold">Current Location</div>
                         <div className="stat-desc text-[#293241] text-lg">Barishal, Bangladesh</div>
                     </div>
                 </div>
+            </div>
+            <div className='flex justify-center my-5'>
+                <a href="https://drive.google.com/file/d/1b1BeNUQxANdXS1jGKJ1mBfIaY9OXVCA4/view?usp=sharing" target='_blank'><button className="btn px-10 py-3 bg-[#e0fbfc] text-[#293241]">See Resume</button></a>
             </div>
         </div>
     );

@@ -12,14 +12,14 @@ const Banner = () => {
                     <a href="/#projects"><Button btnText={"PROJECTS"}></Button></a>
                     {/* Floating Soical Icon */}
                     <div className="fab fab-flower">
-                        <div tabIndex={0} role="button" className="animate-bounce btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><TbSocial /></div>
+                        <div tabIndex={0} role="button" className="animate-bounce btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><TbSocial /></div>
 
-                        <button className="fab-main-action btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><TbSocial /></button>
+                        <button className="fab-main-action btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><TbSocial /></button>
 
-                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><a href="https://www.facebook.com/adib.chowdhury.922022" target="_blank"><FaFacebook /></a></button>
-                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><a href="https://github.com/mdadib300" target="_blank"><FaGithub /></a></button>
-                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><a href="https://www.linkedin.com/in/md-adib-chowdhury-4212b2373/" target="_blank"><FaLinkedin /></a></button>
-                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-xl"><a href="https://www.youtube.com/@md.adibchowdhury8848" target="_blank"><FaYoutube /></a></button>
+                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><a href="https://www.facebook.com/adib.chowdhury.922022" target="_blank"><FaFacebook /></a></button>
+                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><a href="https://github.com/mdadib300" target="_blank"><FaGithub /></a></button>
+                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><a href="https://www.linkedin.com/in/md-adib-chowdhury-4212b2373/" target="_blank"><FaLinkedin /></a></button>
+                        <button className="btn btn-lg md:btn-xl btn-circle bg-[#293241] text-[#e0fbfc] text-xl"><a href="https://www.youtube.com/@md.adibchowdhury8848" target="_blank"><FaYoutube /></a></button>
                     </div>
                 </div>
             </div>

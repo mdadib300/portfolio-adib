@@ -40,7 +40,6 @@ const About = () => {
                         <SkillCard skill={"Firebase"}></SkillCard>
                         <SkillCard skill={"MongoDB"}></SkillCard>
                         <SkillCard skill={"NodeJS"}></SkillCard>
-                        <SkillCard skill={"ExpressJS"}></SkillCard>
                         <SkillCard skill={"Express"}></SkillCard>
                     </div>
                 </div>

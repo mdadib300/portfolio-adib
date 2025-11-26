@@ -1,16 +1,3 @@
-# React + Vite
+Portfolio | Md. Adib Chowdhury | MERN Stack Web Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio is a curated reflection of my work as a MERN stack web developer, built to present my skills, projects, and creative identity in a clean and structured way. The website features a modern interface with smooth animations, responsive layouts, and a minimalistic design that keeps the focus on clarity and usability. Each section is crafted with intention, from the hero introduction to the project showcases, allowing visitors to quickly understand who I am and what I can build. Developed using React and Tailwind CSS, the site emphasizes reusable components, clean code architecture, and strong performance across all devices. Hosted on Netlify, the portfolio acts as both a personal brand and a technical demonstration of my abilities, bringing together functionality, aesthetics, and thoughtful presentation. It serves as a professional gateway where clients, collaborators, and recruiters can explore my work, learn about my background, and connect with me for future opportunities.
