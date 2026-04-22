@@ -17,7 +17,7 @@ const Contact = () => {
                 onAnimationComplete={handleAnimationComplete}
                 className="flex justify-center text-4xl font-semibold py-10"
             />
-            <p className='text-center text-xl px-2 lg:px-30 mb-10'>Feel free to Contact me for any web dev. related need and I will get back to you as soon as possible</p>
+            <p className='text-center text-xl px-2 lg:px-30 mb-10'>Feel free to Contact me for any web dev related need and I will get back to you ASAP (As slow as possible 😄)</p>
             <div className='flex justify-center px-5 md:px-10'>
                 <div className="stats shadow block lg:flex">
                     <div className="stat p-5 md:p-10 bg-[#e0fbfc] text-[#293241]">

@@ -1,4 +1,4 @@
-import { FaFacebook, FaGithub, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -14,7 +14,6 @@ const Footer = () => {
                 <h1 className="text-2xl font-bold">Social</h1>
                 <div className="grid grid-flow-col gap-4">
                     <a className="text-2xl" href="https://www.facebook.com/adib.chowdhury.922022" target="_blank"><FaFacebook /></a>
-                    <a className="text-2xl" href="https://www.youtube.com/@md.adibchowdhury8848" target="_blank"><FaYoutube /></a>
                     <a className="text-2xl" href="https://github.com/mdadib300" target="_blank"><FaGithub /></a>
                     <a className="text-2xl" href="https://www.linkedin.com/in/md-adib-chowdhury-4212b2373/" target="_blank"><FaLinkedin /></a>
                 </div>
